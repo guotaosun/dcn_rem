@@ -1,0 +1,2 @@
+# dcn_rem
+在testlink上通socket协议实现云端执行的功能
